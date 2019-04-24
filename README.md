@@ -6,3 +6,5 @@
 <p>var ponteiro *string ===  decalaração de um ponteiro</p>
 <p>ponteiro = &nomeDaVariavel === armazenando o endereço que sera referenciado pelo ponteiro</p>
 <p> *ponteiro === retorna o valor do endereço de memória que o ponteiro faz referência</p>
+<p>A partir do momento que é feita a a referenciação, as mudanças feitas no ponteiro
+também irão alterar os dados da variável</p>
