@@ -1,4 +1,5 @@
 <h1>Ponteiros em Go</h1>
+<p>Ponteiros também chamados de apontadores, são variaveis que armazenam o endereço de memória de outras variaveis.</p>
 <p>Cada variavel ocupa um espaço na memória, e esta possui um endereço, chamado de endereço de memória.</p>
 <p>Ponteiros são referências diretas para endereço de memória.</p>
 <p>Em Go é utilizado o operador & para visualizar o endereço de memória de uma variável.</p>
